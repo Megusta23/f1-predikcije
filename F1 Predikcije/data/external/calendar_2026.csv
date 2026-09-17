@@ -1,0 +1,24 @@
+season,round,date,race_name,circuitRef,is_sprint,completed
+2026,1,2026-03-08,Australian Grand Prix,albert_park,0,1
+2026,2,2026-03-15,Chinese Grand Prix,shanghai,1,1
+2026,3,2026-03-29,Japanese Grand Prix,suzuka,0,1
+2026,4,2026-05-03,Miami Grand Prix,miami,1,1
+2026,5,2026-05-24,Canadian Grand Prix,villeneuve,1,1
+2026,6,2026-06-07,Monaco Grand Prix,monaco,0,1
+2026,7,2026-06-14,Barcelona-Catalunya Grand Prix,catalunya,0,1
+2026,8,2026-06-28,Austrian Grand Prix,red_bull_ring,0,1
+2026,9,2026-07-05,British Grand Prix,silverstone,1,1
+2026,10,2026-07-19,Belgian Grand Prix,spa,0,1
+2026,11,2026-07-26,Hungarian Grand Prix,hungaroring,0,1
+2026,12,2026-08-23,Dutch Grand Prix,zandvoort,1,1
+2026,13,2026-09-06,Italian Grand Prix,monza,0,1
+2026,14,2026-09-13,Spanish Grand Prix,madrid,0,0
+2026,15,2026-09-26,Azerbaijan Grand Prix,baku,0,0
+2026,16,2026-10-04,Bahrain Grand Prix in Malaysia,sepang,0,0
+2026,17,2026-10-11,Singapore Grand Prix,marina_bay,1,0
+2026,18,2026-10-25,United States Grand Prix,americas,0,0
+2026,19,2026-11-01,Mexico City Grand Prix,rodriguez,0,0
+2026,20,2026-11-08,Sao Paulo Grand Prix,interlagos,0,0
+2026,21,2026-11-21,Las Vegas Grand Prix,vegas,0,0
+2026,22,2026-11-29,Qatar Grand Prix,losail,0,0
+2026,23,2026-12-06,Abu Dhabi Grand Prix,yas_marina,0,0

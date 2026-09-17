@@ -1,0 +1,24 @@
+season,constructorRef,constructor_name,driverRef,driver_name,start_round,end_round
+2025,mclaren,McLaren,norris,Lando Norris,1,24
+2025,mclaren,McLaren,piastri,Oscar Piastri,1,24
+2025,ferrari,Ferrari,leclerc,Charles Leclerc,1,24
+2025,ferrari,Ferrari,hamilton,Lewis Hamilton,1,24
+2025,mercedes,Mercedes,russell,George Russell,1,24
+2025,mercedes,Mercedes,antonelli,Kimi Antonelli,1,24
+2025,red_bull,Red Bull,max_verstappen,Max Verstappen,1,24
+2025,red_bull,Red Bull,lawson,Liam Lawson,1,2
+2025,red_bull,Red Bull,tsunoda,Yuki Tsunoda,3,24
+2025,rb,Racing Bulls,tsunoda,Yuki Tsunoda,1,2
+2025,rb,Racing Bulls,hadjar,Isack Hadjar,1,24
+2025,rb,Racing Bulls,lawson,Liam Lawson,3,24
+2025,williams,Williams,albon,Alexander Albon,1,24
+2025,williams,Williams,sainz,Carlos Sainz,1,24
+2025,aston_martin,Aston Martin,alonso,Fernando Alonso,1,24
+2025,aston_martin,Aston Martin,stroll,Lance Stroll,1,24
+2025,haas,Haas F1 Team,ocon,Esteban Ocon,1,24
+2025,haas,Haas F1 Team,bearman,Oliver Bearman,1,24
+2025,sauber,Kick Sauber,hulkenberg,Nico Hulkenberg,1,24
+2025,sauber,Kick Sauber,bortoleto,Gabriel Bortoleto,1,24
+2025,alpine,Alpine,gasly,Pierre Gasly,1,24
+2025,alpine,Alpine,doohan,Jack Doohan,1,6
+2025,alpine,Alpine,colapinto,Franco Colapinto,7,24

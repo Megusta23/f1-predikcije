@@ -1,0 +1,25 @@
+season,round,date,race_name,circuitRef,is_sprint
+2025,1,2025-03-16,Australian Grand Prix,albert_park,0
+2025,2,2025-03-23,Chinese Grand Prix,shanghai,1
+2025,3,2025-04-06,Japanese Grand Prix,suzuka,0
+2025,4,2025-04-13,Bahrain Grand Prix,bahrain,0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,jeddah,0
+2025,6,2025-05-04,Miami Grand Prix,miami,1
+2025,7,2025-05-18,Emilia Romagna Grand Prix,imola,0
+2025,8,2025-05-25,Monaco Grand Prix,monaco,0
+2025,9,2025-06-01,Spanish Grand Prix,catalunya,0
+2025,10,2025-06-15,Canadian Grand Prix,villeneuve,0
+2025,11,2025-06-29,Austrian Grand Prix,red_bull_ring,0
+2025,12,2025-07-06,British Grand Prix,silverstone,0
+2025,13,2025-07-27,Belgian Grand Prix,spa,1
+2025,14,2025-08-03,Hungarian Grand Prix,hungaroring,0
+2025,15,2025-08-31,Dutch Grand Prix,zandvoort,0
+2025,16,2025-09-07,Italian Grand Prix,monza,0
+2025,17,2025-09-21,Azerbaijan Grand Prix,baku,0
+2025,18,2025-10-05,Singapore Grand Prix,marina_bay,0
+2025,19,2025-10-19,United States Grand Prix,americas,1
+2025,20,2025-10-26,Mexico City Grand Prix,rodriguez,0
+2025,21,2025-11-09,Sao Paulo Grand Prix,interlagos,1
+2025,22,2025-11-23,Las Vegas Grand Prix,vegas,0
+2025,23,2025-11-30,Qatar Grand Prix,losail,1
+2025,24,2025-12-07,Abu Dhabi Grand Prix,yas_marina,0

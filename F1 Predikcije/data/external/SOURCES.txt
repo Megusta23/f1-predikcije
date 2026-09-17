@@ -1,0 +1,14 @@
+External snapshot sources
+
+1. Official Formula 1 2025 race results: https://www.formula1.com/en/results/2025/races
+2. Official Formula 1 2025 driver standings: https://www.formula1.com/en/results/2025/drivers
+3. Official Formula 1 2025 team standings: https://www.formula1.com/en/results/2025/team
+4. Official Formula 1 2026 calendar (snapshot 2026-09-10): https://www.formula1.com/en/racing/2026
+5. Official Formula 1 2026 race results: https://www.formula1.com/en/results/2026/races
+6. Official Formula 1 2026 driver standings: https://www.formula1.com/en/results/2026/drivers
+7. Official Formula 1 2026 team standings: https://www.formula1.com/en/results/2026/team
+8. 2026 sprint calendar: https://www.formula1.com/en/latest/article/formula-1-and-fia-announce-2026-sprint-calendar.3PyLPAazrBNe8kQIS3wOfY
+9. Malaysia/Sepang 2026 calendar update: https://www.formula1.com/en/latest/article/formula-1-and-fia-confirm-formula-1-and-fia-confirm-malaysia-will-join-2026-calendar-as-host-venue-for-the-bahrain-grand-prix.6lL7vjFEM2VVynRHvg1TCf
+10. Jolpica API documentation: https://api.jolpi.ca/ergast/f1/
+
+The 2026 snapshots include all completed Grands Prix through Italy on 2026-09-06. The season was still in progress on 2026-09-10.

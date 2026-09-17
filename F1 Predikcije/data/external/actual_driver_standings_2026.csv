@@ -1,0 +1,24 @@
+season,position,driverRef,driver_name,constructorRef,points,snapshot_round,snapshot_date
+2026,1,antonelli,Kimi Antonelli,mercedes,267,13,2026-09-06
+2026,2,russell,George Russell,mercedes,201,13,2026-09-06
+2026,3,hamilton,Lewis Hamilton,ferrari,191,13,2026-09-06
+2026,4,norris,Lando Norris,mclaren,171,13,2026-09-06
+2026,5,leclerc,Charles Leclerc,ferrari,155,13,2026-09-06
+2026,6,max_verstappen,Max Verstappen,red_bull,127,13,2026-09-06
+2026,7,piastri,Oscar Piastri,mclaren,116,13,2026-09-06
+2026,8,hadjar,Isack Hadjar,red_bull,71,13,2026-09-06
+2026,9,lawson,Liam Lawson,rb,51,13,2026-09-06
+2026,10,gasly,Pierre Gasly,alpine,41,13,2026-09-06
+2026,11,arvid_lindblad,Arvid Lindblad,rb,29,13,2026-09-06
+2026,12,colapinto,Franco Colapinto,alpine,21,13,2026-09-06
+2026,13,bearman,Oliver Bearman,haas,18,13,2026-09-06
+2026,14,bortoleto,Gabriel Bortoleto,audi,10,13,2026-09-06
+2026,15,hulkenberg,Nico Hulkenberg,audi,6,13,2026-09-06
+2026,16,sainz,Carlos Sainz,williams,6,13,2026-09-06
+2026,17,albon,Alexander Albon,williams,5,13,2026-09-06
+2026,18,ocon,Esteban Ocon,haas,3,13,2026-09-06
+2026,19,alonso,Fernando Alonso,aston_martin,3,13,2026-09-06
+2026,20,tsunoda,Yuki Tsunoda,rb,1,13,2026-09-06
+2026,21,stroll,Lance Stroll,aston_martin,0,13,2026-09-06
+2026,22,bottas,Valtteri Bottas,cadillac,0,13,2026-09-06
+2026,23,perez,Sergio Perez,cadillac,0,13,2026-09-06
