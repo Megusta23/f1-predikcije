@@ -83,16 +83,3 @@ F1_seminarski_projekat/
 `-- requirements.txt
 ```
 
-## Sprječavanje curenja podataka
-
-Sve rolling i expanding varijable koriste `shift(1)`: trenutni rezultat nikada ne ulazi u sopstvenu predikciju. Testne sezone dolaze hronološki poslije treninga. Rezultati 2025. nisu korišteni za strogu prognozu 2025, a rezultati 2026. nisu korišteni za predsezonsku provjeru 2026.
-
-## Zašto model koristi period 2005-2024
-
-Arhiv počinje 1950, ali su se bodovanje, broj učesnika, pouzdanost i pravila znatno mijenjali. Moderni prozor daje 8.290 redova iz 394 utrke i bolje odgovara problemu 2025-2026. Stari redovi ostaju sačuvani za deskriptivnu analizu.
-
-## Reproducibilnost i snapshot 2026.
-
-Eksterni podaci su namjerno spremljeni kao fiksni snapshot. Stanje 2026. obuhvata utrke zaključno sa VN Italije 6. septembra 2026, a datum analize je 10. septembar 2026. Zbog toga ponovno pokretanje daje isto akademsko poređenje i nakon što sezona bude nastavljena.
-
-Izvori snapshot podataka navedeni su u `data/external/SOURCES.txt` i u Word dokumentu.
